@@ -1,2 +1,2 @@
 # PROYECTO_1
-Juan Manuel, Felix, Alvaro y Miguel
+Juan Manuel, Félix, Alvaro y Miguel
